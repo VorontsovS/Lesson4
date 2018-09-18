@@ -1,0 +1,211 @@
+body {
+	background-color: #f8f8f8;
+	border-top: 5px solid #7e7e7e;
+	margin: 0;
+}	
+
+.osnova {
+	max-width: 960px;
+	margin: auto;
+	background-color: 7e7e7e;
+}
+
+header {
+	padding: 20px 0;
+}
+
+form {
+	float: right;
+}	
+
+button {
+	background-color: #29c5e6;
+}
+
+nav {
+	margin: 0;
+	padding: 0;
+}
+
+.topmenu li {
+	display: inline-block;
+	padding: 10px 30px;
+	margin: 0;
+}
+
+.topmenu a {
+	color: grey;
+}
+
+nav a {
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+
+.head {
+	background: brown;
+	margin: 30px 0;
+	padding-left: 20px;
+}	
+
+h1 {
+	display: inline-block;
+	color: #7e7e7e;
+	background: white;
+	margin: 0;
+	padding: 0 10px;
+}
+
+aside {
+	float: right;
+	width: 250px;
+}
+
+section {
+	margin-right: 280px;
+	padding-bottom: 50px;
+}
+
+.asmenu li {
+	list-style-type: square;
+}
+
+.asmenu a {
+	color: #8f8f8f;
+}
+
+p {
+	margin: 20px 0;
+}
+
+aside h2 {
+	background: brown;
+	font: 14px Arial;
+	color: #fff;
+	padding: 10px;
+	margin: 30px 0 0 0;
+}
+
+aside p {
+	background: #f3f3f3;
+	border: 1px solid #e7e7e7;
+	padding: 10px;
+	margin: 0;
+}
+
+blockquote {
+	margin: 0;
+	background: brown;
+	padding: 10px 20px;
+	font: 14px Arial;
+	font-weight: 300;
+}
+
+blockquote p {
+	color: #fff;
+	font-size: 14px;
+	margin: 0;
+	text-align: justify;
+}
+
+blockquote cite {
+	display: block;
+	font-size: 14px;
+	color: #8f8f8f;
+	margin: 0;
+	text-align: right;
+}
+
+figure {
+	display: inline-block;
+	margin: 0;
+	font: 14px Arial;
+	font-weight: 300;
+}
+
+figure img {
+	display: block;
+	border: 1px solid #fff;
+}
+
+figure figcaption {
+	font-size: 16px;
+	font-weight: 300;
+	margin-top: 5px;
+}
+
+figure figcaption span {
+	display: block;
+	font-size: 14px;
+	color: brown;
+}
+
+section figure + figure {
+	margin-left: 28px;
+}
+
+section h2 {
+	background: brown;
+	font: 20px Arial;
+	font-weight: 300;
+	color: #fff;
+	padding: 0 10px;
+	margin: 30px 0 0 0;
+}
+
+figure div {
+	font-size: 14px;
+	color: #29c5e6;
+}
+
+.team figure {
+	margin-top: 20px;
+}
+
+.team figure + figure {
+	margin-left: 43px;
+}
+
+footer {
+	background: gray;
+	color: #dbdbdb;
+	font-size: 11px;
+}
+
+.footer {
+	max-width: 960px;
+	margin: auto;
+	padding: 10px 0;
+	height: 100px;
+}
+
+footer a {
+	color: #dbdbdb;
+}
+
+.sitemap {
+	width: 150px;
+	float: left;
+	margin-left: 320px;
+	padding-right: 15px;
+}
+
+.sitemap div {
+	display: inline-block;
+}
+
+.sitemap div + div {
+	margin-left: 40px;
+}
+
+.sitemap a {
+	display: block;
+	text-decoration: none;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+.sitemap a:hover {
+	text-decoration: underline;
+}
